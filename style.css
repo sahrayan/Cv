@@ -10,9 +10,17 @@ body{
     font-size: .9rem;
     line-height: 1.5;
 }
-#section{
+.section{
     margin-bottom: 1.5rem;
+    text-align: center;
 }
 .header{
-    background-color: rgb(131, 114, 114);
+    height: 150px;
+    text-align: center;
 }
+.footer{
+    text-align: center;
+    padding: 15px;
+    background-color: rgb(248, 248, 248);
+}
+
